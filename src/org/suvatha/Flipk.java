@@ -11,7 +11,7 @@ public class Flipk {
   
          WebDriver driver = new ChromeDriver();
          
-         driver.get("https://www.facebook.com/");
+         driver.get("https://www.snapdeal.com/");
          
         
          
